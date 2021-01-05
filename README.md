@@ -1,8 +1,6 @@
 ## Welcome to Mei's Github Page
 
-You can use the [editor on GitHub](https://github.com/meijiang0905/meijiang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I know I am supposed to say something in this website but I don't what to say.
 
 ### Markdown
 
