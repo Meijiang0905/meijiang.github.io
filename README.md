@@ -2,6 +2,8 @@
 
 I know I am supposed to say something on this website but I don't what to say.
 
+Javascript is my favorite programming language! (Nah.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
