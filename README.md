@@ -1,4 +1,4 @@
-## Welcome to Mei's Github Page!
+## Welcome to Mei's User Page!
 
 I know I am supposed to say something on this website but I don't what to say.
 
